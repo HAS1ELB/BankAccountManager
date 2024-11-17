@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "cppdbg",
+        "request": "launch",
+        "name": "Run COBOL",
+        "program": "${workspaceFolder}/build/main",
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "externalConsole": true,
+        "MIMode": "gdb"
+      }
+    ]
+  }
+  
